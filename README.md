@@ -1,2 +1,2 @@
-# Russian-Roulette-Study
-Have you ever wonder should i start first or after in russian roulette?
+# Russian Roulette Study
+Have you ever wondered whether you should go first or second in Russian roulette?
