@@ -1,5 +1,5 @@
 # Russian Roulette Study
-Have you ever wondered whether you should go first or second in "Russian Roulette"? <br><br>
+Have you ever wondered whether you should go first or second in "Russian Roulette" sequential firing? <br><br>
 <img src="https://github.com/user-attachments/assets/5cb67238-0a40-460b-8b4d-d00b44d7d0cf" width="100%" alt="Squid Game">
 
 ## Overview & Control Variable
