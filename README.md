@@ -64,6 +64,6 @@ P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 &n
 <img src="https://github.com/user-attachments/assets/a0dbcf82-ea64-4e22-bc08-d7c86ac45e15" width="49%" alt="The Saleman"> <br><br>
 "Russian Roulette" might not seem as a fair game becuase player who go first have 1/6 chance, then second player have 1/5 ... 1/4 1/3 1/2 1/1, but the result of this game is already predetermined after first spin of revolver. <br><br>
 
-The probabilities of the bullet being in any given chamber are initially equal, that mean this game is a fair game. <br><br>
+The probabilities of the bullet being in any given chamber are equal, that mean this game is a fair game. <br><br>
 While this game is a fair game because the final outcome is set from the start, but the uncertainty and the changing probabilities create an illusion of fairness based on turn order. <br>
 
