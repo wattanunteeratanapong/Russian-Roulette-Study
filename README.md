@@ -3,7 +3,7 @@ Have you ever wondered whether you should go first or second in "Russian Roulett
 <img src="https://github.com/user-attachments/assets/5cb67238-0a40-460b-8b4d-d00b44d7d0cf" width="100%" alt="Squid Game">
 
 ## Overview & Control Variable
-- In this experiment number of trial(n) in each scenerio is 10
+- In this experiment doing sequential firing (no re-spun)
 - When we pulled the marble out of the bag, we just put it back in, so that it could be an Independent Trial
 - P(success) every trial is constant (because we put marble back in the bag)
 - 10 Million time of simulation
