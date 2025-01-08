@@ -11,6 +11,7 @@ Have you ever wondered whether you should go first or second in "Russian Roulett
 <br>
 
 ## Hypothesis
+### Survival Probability
 P(k n) is a probability of survival k attemp in n chamber <br>
 P(k n) = (n-k) / (n-k)+1 <br>
 
@@ -20,6 +21,19 @@ P(3 6) = (6-3)/(6-3)+1 = 3/4 ≈ 0.75000 ≈ 75.000% <br>
 P(4 6) = (6-4)/(6-4)+1 = 2/3 ≈ 0.66667 ≈ 66.667% <br>
 P(5 6) = (6-5)/(6-5)+1 = 1/2 ≈ 0.50000 ≈ 50.000% <br>
 P(6 6) = (6-6)/(6-6)+1 = 0/1 ≈ 0.00000 ≈ 0.000% <br>
+<br>
+
+### Death Probability
+P(k n) is a probability of death k attemp in n chamber <br>
+P(k n) = 1 / (n-k)+1 <br>
+
+P(1 6) = 1/(6-1)+1 = 1/6 ≈ 0.16667 ≈ 16.667% <br>
+P(2 6) = 1/(6-2)+1 = 1/5 ≈ 0.20000 ≈ 20.000% <br>
+P(3 6) = 1/(6-3)+1 = 1/4 ≈ 0.25000 ≈ 25.000% <br>
+P(4 6) = 1/(6-4)+1 = 1/3 ≈ 0.33333 ≈ 33.333% <br>
+P(5 6) = 1/(6-5)+1 = 1/2 ≈ 0.50000 ≈ 50.000% <br>
+P(6 6) = 1/(6-6)+1 = 1/1 ≈ 1.00000 ≈ 100.000% <br>
+
 <br>
 
 
