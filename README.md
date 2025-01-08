@@ -62,6 +62,6 @@ P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 &n
 ## Conclusion <br>
 <img src="https://github.com/user-attachments/assets/989cd487-3bb9-408a-b21a-c14e01263a05" width="49%" alt="Seong Gi-hun"> 
 <img src="https://github.com/user-attachments/assets/a0dbcf82-ea64-4e22-bc08-d7c86ac45e15" width="49%" alt="The Saleman"> <br><br>
-"Russian Roulette" might not seem as a fair game becuase player who go first have a 1/6 chance then second player 1/5 ... 1/4 1/3 1/2 1/1, but the result of this game is already predetermined after first spin of revolver. <br><br>
+"Russian Roulette" might not seem as a fair game becuase player who go first have a 1/6 chance, then second player 1/5 ... 1/4 1/3 1/2 1/1, but the result of this game is already predetermined after first spin of revolver. <br><br>
 While the final outcome is set from the start, the uncertainty and the changing probabilities create an illusion of fairness based on turn order. <br>
 
