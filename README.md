@@ -3,7 +3,7 @@ Have you ever wondered whether you should go first or second in "Russian Roulett
 <img src="https://github.com/user-attachments/assets/5cb67238-0a40-460b-8b4d-d00b44d7d0cf" width="100%" alt="Squid Game">
 
 ## Overview & Control Variable
-- In this experiment doing sequential firing (no re-spun)
+- In this experiment doing sequential firing (no re-spin)
 - When we pulled the marble out of the bag, we just put it back in, so that it could be an Independent Trial
 - P(success) every trial is constant (because we put marble back in the bag)
 - 10 Million time of simulation
@@ -31,7 +31,7 @@ P(9 10) &nbsp;&nbsp;= 10C9 (1/3)⁹(2/3)¹ &nbsp;&nbsp;&nbsp;≈ 0.00033870 &nbs
 P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 &nbsp;(0.001694%)<br>
 
 ### Second Player
-<img src="https://github.com/user-attachments/assets/a0dbcf82-ea64-4e22-bc08-d7c86ac45e15" width="400" alt="Image 1"> <br>
+<img src="https://github.com/user-attachments/assets/a0dbcf82-ea64-4e22-bc08-d7c86ac45e15" width="400" alt="The Saleman"> <br>
 
 Bag : Red Green Green <br>
 Success(k) is when drawing Red Marbel <br>
@@ -59,6 +59,9 @@ P(10 10) = 10C10 (1/3)¹⁰(2/3)⁰                            ≈ 0.00001694 &n
 <img src="https://github.com/user-attachments/assets/2c8ca9f6-d791-40ed-a188-1dd5cb5adc38" width="20%" height="300" alt="Image 3">
 <br><br>
 
-## Conclusion
-"Experimental Probability" and "Theoretical Probability" are very close. The "Binomial Random Variable" is accurate.
+## Conclusion <br>
+<img src="https://github.com/user-attachments/assets/989cd487-3bb9-408a-b21a-c14e01263a05" width="49%" alt="Seong Gi-hun"> 
+<img src="https://github.com/user-attachments/assets/a0dbcf82-ea64-4e22-bc08-d7c86ac45e15" width="49%" alt="The Saleman"> <br><br>
+"Russian Roulette" might not seem as a fair game becuase player who go first have a 1/6 chance then second player 1/5 ... 1/4 1/3 1/2 1/1, but the result of this game is already predetermined after first spin of revolver. <br><br>
+While the final outcome is set from the start, the uncertainty and the changing probabilities create an illusion of fairness based on turn order. <br>
 
