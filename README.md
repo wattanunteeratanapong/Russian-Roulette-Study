@@ -3,7 +3,7 @@ Have you ever wondered whether you should go first or second in "Russian Roulett
 <img src="https://github.com/user-attachments/assets/5cb67238-0a40-460b-8b4d-d00b44d7d0cf" width="100%" alt="Squid Game">
 
 ## Overview & Control Variable
-- In real life scenerio factors like revolver bias, mechanical imperfections, or human error could introduce bias, but in this experiment assume a fair randomness
+- In real life scenerio having factors like revolver bias, mechanical imperfections, or human error could introduce bias, but in this experiment assume a fair randomness
 - In this experiment doing sequential firing (no re-spin)
 - The revolver has 6 chambers and 1 bullet
 - Test 1v1 against two player
